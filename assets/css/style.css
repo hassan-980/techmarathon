@@ -176,7 +176,7 @@ header {
 }
 
 footer{
-    background-color: rgb(2, 2, 52);
+    background-color: rgb(2, 3, 54);
     display: flex;
     justify-content: space-between;
     padding: 3em 5em 8em 5em;
@@ -214,7 +214,7 @@ footer .f-social{
     }
     #tech {
         font-size: 17px;
-        padding-top: 4px;}
+        padding-top: 5px;}
 
 
     .home .content h3 {
