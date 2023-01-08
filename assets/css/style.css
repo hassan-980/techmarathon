@@ -176,7 +176,7 @@ header {
 }
 
 footer{
-    background-color: rgb(4, 5, 52);
+    background-color: rgb(2, 2, 52);
     display: flex;
     justify-content: space-between;
     padding: 3em 5em 8em 5em;
