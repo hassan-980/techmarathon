@@ -203,9 +203,15 @@ footer .f-social{
 
 @media screen and (max-width: 420px) {
 
+    
+    .logo img {
+        height: 45px;
+        padding: 8px 0px 4px 8px;
+    }
+
 
     .home .content h3 {
-        font-size: 26.3px;
+        font-size: 27.5px;
         margin-bottom: 0px;
         margin-top: 8px;
     }
@@ -236,6 +242,7 @@ footer .f-social{
         padding-right: 0px;
     }
     .social ul i{
+        padding-top: 3px;
         font-size: 18px;
     }
 
@@ -255,6 +262,9 @@ footer .f-social{
         height: 100%;
         padding: 1em 2em 3em 2em;
         flex-direction: column;
+    }
+    footer p{
+        font-size: 14px;
     }
     .f-social ul{
         padding: 0px 18px 0px 0px;
