@@ -251,6 +251,7 @@ footer .f-social{
         padding: 0px 0px 0px 0px
     }
     footer {
+        height: 100%;
         padding: 1em 2em 3em 2em;
         flex-direction: column;
     }
