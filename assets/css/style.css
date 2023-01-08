@@ -73,9 +73,12 @@ header {
 
     display: flex;
     flex-wrap: wrap;
+
     min-height: 100vh;
     justify-content: center;
     height: 100%;
+    
+
 
 }
 
@@ -110,7 +113,8 @@ header {
     display: flex;
     flex-direction: column;
     margin-bottom: -130px;
-
+    width: 100%;
+    text-align: center;
 }
 
 .home .content h3 {
